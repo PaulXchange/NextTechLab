@@ -1,0 +1,64 @@
+html {
+  line-height: 1.15;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+}
+
+body {
+  background:orange;
+  margin: 0;
+  font-size: $font-size-base;
+  -webkit-font-smoothing: subpixel-antialiased;
+  height: 100%;
+  width: 100%;
+  line-height: 1.15;
+  color: $bc-white; // height:6018px; //delete
+}
+
+a {
+
+}
+
+ul li {
+  
+}
+
+p {
+  line-height: $line-height-base;
+  margin-top: 0;
+}
+
+
+
+
+.bc {
+
+}
+
+.clearfix{
+  clear:both;
+}
+
+
+
+
+
+
+
